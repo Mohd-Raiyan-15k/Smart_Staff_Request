@@ -10,15 +10,19 @@ Setup
 
 Make sure Node.js is installed, then open a terminal in the project folder (the folder containing package.json).
 
-1. Install dependencies
+1.git clone <repository url>
+
+2. cd <folder name>
+
+3. Install dependencies
 
 npm install --legacy-peer-deps
 
-2. Start Expo
+4. Start Expo
 
 npx expo start
 
-3. Run the app
+5. Run the app
 
 Scan the QR code with Expo Go on your phone.
 
