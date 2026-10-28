@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # StaffUp: Smart Staff Request (owner flow)
 
 A restaurant owner types what they need in plain language. The app turns it into a structured booking, shows what it understood, lets the owner fix anything in one or two taps, ranks the partners who fit, and confirms.
@@ -93,3 +94,6 @@ AI_USAGE.md         Which AI tools were used and what was rejected
 ```
 #   T e s t _ S t a f f _ S o l u t i o n s  
  
+=======
+# Smart_Staff_Request
+>>>>>>> 5cf1f79107f459c07f86c1a1ed8204aa3fa44bb3
