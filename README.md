@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/staff.png.png" alt="My Banner" width="100%">
+  <img src="./assets/staff.png" alt="My Banner" width="100%">
 </p>
 
 StaffUp — Smart Staff Request
